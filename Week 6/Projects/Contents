@@ -1,0 +1,18 @@
+Contents
+
+Project 4: COVID Analysis
+• Dealing with Null Values
+• Deal with null values and fill null values with 0
+
+Project 5: COVID Analysis - Data Preprocessing 
+• Also add Year Column in the dataset from Date Column
+• Add Month Column in the dataset from Date Column (1-12)
+• Add Day Column in the dataset from Date Column
+
+Project 6: COVID Analysis - Categorical Columns 
+• Add Month Column in the dataset from Date Column (Jan-Dec)
+
+Project 7: COVID Analysis - Multi-Columns Analysis 
+Answer the following questions also 
+• How many people are totally vaccinated in India in May 2021?
+• How many people are vaccinated in Albania on 2022-01-12?
