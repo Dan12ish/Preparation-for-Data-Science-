@@ -1,0 +1,18 @@
+Contents
+
+Project 13: 
+Perform data analysis using statistics on the data of student achievement in secondary education in two Portuguese schools.
+  1) Load the dataset into a dataframe.
+  2) Explore the data type in each column of the dataset.
+  3) Explore the range of values in each column in the dataset.
+  4) Explore the distribution of each column.
+  5) Explore the relationship between the column using correlation matrix.
+  6) Rank all the features affecting the overall grade.
+Datasets associated with this project: student-mat.csv & student-por.csv
+
+Project 14:
+Perform Data analysis using statistics on the data of placements of students in a xyz campus.
+   1) Which factor influenced in the student getting placed?
+   2) Does percentage matter in one from getting placed?
+   3) Which degree specialization is much demanded by the corporate?
+Dataset associated with this project: Placement_Data_Full_Class.csv
